@@ -1,5 +1,5 @@
 # 💫 About Me:
-Well, hello there — I'm Bianca 👋<br><br>💻 I'm a systems developer at a financial services company.<br><br>🎓 I hold an Honours degree in Computer Science and Information Systems (cum laude — yay!)<br><br>📊 I also have a degree in Mathematical Statistics.<br><br>📚 When I'm not coding, you'll probably find me reading, doing Pilates,<br>or having an existential crisis (the balanced lifestyle, you know?).
+Well, hello there — I'm Bianca 👋<br><br>💻 I'm a systems developer at a financial services company.<br><br>🎓 I hold an Honours degree in Computer Science and Information Systems (cum laude - yay!)<br><br>📊 I also have a degree in Mathematical Statistics.<br><br>📚 When I'm not coding, you'll probably find me reading, doing Pilates,<br>or having an existential crisis (the balanced lifestyle, you know?).
 
 
 ## 🌐 Socials:
